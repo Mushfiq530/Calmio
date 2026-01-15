@@ -20,8 +20,8 @@
 ---
 
 ## 🗂 Project Structure
-
-Calmio/
+```
+Calmio/                                                                                                                                             
 ├── app/
 │   └── src/
 │       └── main/
@@ -53,7 +53,7 @@ Calmio/
 ├── .gitignore
 └── README.md
 
-
+```
 
 
 ---
